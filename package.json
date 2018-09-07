@@ -1,0 +1,28 @@
+{
+  "name": "js-w4-v2",
+  "version": "1.0.16",
+  "description": "Auto webpack4 + vue2 project template",
+  "main": "index.js",
+  "bin": {
+    "js-w4-v2": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack0888/js-w4-v2.git"
+  },
+  "keywords": [
+    "js-w4-v2"
+  ],
+  "author": "yjwang088@163.com",
+  "dependencies": {
+    "commander": "^2.17.1",
+    "git-clone": "^0.1.0",
+    "shelljs": "^0.8.2",
+    "tracer": "^0.9.1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jack0888//issues"
+  },
+  "homepage": "https://github.com/jack0888/#readme"
+}
